@@ -1,4 +1,4 @@
-AlertOps Expert Guidance
+Incident Response Communication – Improve Efficiency
 ========
 
  
@@ -13,28 +13,45 @@ Strategize mode(s) of communication to be used when communicating with stakehold
 
 Automate Processes
 ====
-Engaging stakeholders can take up a lot of time. Automate stakeholder communications to ensure efficient delivery of insightful information. Implement AlertOps so you can focus on getting ahead of incidents while knowing your alerts reach the right person, through the right channel, every time. Sending regular updates to stakeholders during an incident is vital to keep them calm. Automation addresses your stakeholders’ needs while ensuring they remain aligned with minimal manual work.
+Major incidents often cause mass confusion making it difficult to figure out how to effectively notify your customers. Having a successful incident response communication plan during an incident lets your customers know you are aware of the situation and are working to get the incident resolved providing a better customer experience.
 
-Clarity
-====
-A highly flexible incident management and alert automation tool, AlertOps is powered by an open API, with the ability to connect with practically any communication tool. Once plugged in, AlertOps delivers alerts with relevant incident information so that stakeholders can stay in the loop from detection to resolution.
-Any Way You Want It…
+Notify your customers as quickly as possible because every minute counts and is costing your customers money, don’t waste any time. A reliable incident-management system allows you to notify your customers during a major incident.
 
-Since you use multiple channels for communication, you need an alerting system that sends alerts through multiple communication channels. AlertOps delivers alerts any way you want. Receive alerts by phone, SMS, or email. Even integrate with all your favorite chat tools, such as Slack and Microsoft Teams, so that users receive alerts where they are most likely to see them.
+    Get Ahead of the Incident
 
-Insightful Notifications
-====
-Alerts are only useful if they contain information relevant to the user. With AlertOps, customized messages make it easy for stakeholders to quickly understand an incident. They can also receive updates throughout the course of handling the incident. Make sure emails are actionable as well. Send emails in rich text and HTML to include graphs, images, custom links, runbook links or links to a conference bridge for any alert. The solution even offers voice messages with incident details from the embedded phone system.
+Getting ahead of the major incident is crucial, and with important information your customers will want to be kept in to the loop both during and after the major incident. Save the detailed and technical messages for your services desk teams. Your customers want to know the problem and severity and how the outage will affect their business as well as the timeframe to getting it resolved.  Ensure you use the right tone when communicating the major incident with your business partner, don’t place the blame on other systems, and accept the responsibility.  Remember that proactively spreading the word to your customers will helps build their trust. Your customers will value your honesty and will help grow your future by talking about your outages.
+incident Response Communication
+www.alertops.com
 
-Conclusion
-====
-Effective incident response requires, not only sending the right information to the right people, but also ensuring those stakeholders are engaged and truly informed. It is vital to have a plan in place for ensuring that each type of stakeholder receives only the information he or she needs. AlertOps ensures that your alerts reach the right person, through the right channel, every time.
+AlertOps’ workflows are a great way to quickly send updates, giving your customers and support teams the most up to the minute updates on major incidents and resolutions. The silence will only frustrate your customers, regardless of the time of day so with AlertOps you can send updates immediately and keep the information coming.  Regular status updates will show your customers that you are still working to resolve the outage.  Keep in mind that your customers have customers too and need to stay on top of the major incident.  AlertOps’ workflows will help reach out to your customers before they feel the impact of the major incident.
 
-1 Red Canary 2021 Threat Detection Report
+    Provide Specific & Timely Contact
+
+Your resolution teams need specific detail and action plans in place because major incidents impact your business in minutes even before incident resolution teams get involved. Meeting your customers SLAs isn’t enough! You are under their microscope during major incidents and they want immediate contact.  AlertOps’ message rules and workflows allow you to customize unique messages for each audience: the incident resolvers, IT department, managers and business partners. This allows you to send tailored massages for each step of the process until the incident is resolved.
+
+    Manage Constantly Changing Scenarios
+
+In connected-enterprises, during a major incident it will cause a domino effect and may trigger a multitude of additional incidents. To ensure that the content of the message correlates with the specific teams: resolution teams need specific details and call to actions to engage and inform them rapidly, while external clients don’t need the details— they simply need to know that the problem is addressed and what to expect next.
+
+AlertOps communication during an incident includes message templates, with integrations between communication, ticketing and monitoring systems it allows messages to automatically be sent without taking resolution or ops teams off the task, which allows for multiple messages to be triggered to specific groups.
+
+AlertOps’ team management uses on-call scheduling, groups and skill sets, so during a major incident you rarely have to look for a specific person, but rather look for a specific role or skill set.  AlertOps’ message rule allows incident response communication frequency on alerts and resolution time.
+
+AlertOps’ communication is triggered by escalations so action is taken quickly.  Often times requiring a conference bridge to dramatically reduce the resolution time and use proactive communication to help gather data to troubleshoot, your business partners will want to know what you learned and that you’re confident the same critical outage won’t happen again.
+
+    Automate Processes During Major Incidents
+
+Keep in mind that during a major incident response communication is as crucial as the events that are changed and updated.
+
+Major incidents often send a ripple effect through your organization and your customers. So they are confident that you have identified the root cause of the problem and processes are in place to reduce the risk of similar incidents.
+
+  Learn to trigger and use proactive communication with AlertOps’ workflows during major incidents for everyone involved.
+
+AlertOps’ Workflows can manage your service levels allowing you to send reminders to incident owners at regular intervals or send reminders off of an SLA deadline.  Workflows can also trigger other flows as well, such as change control processes needed to resolve major incidents.
 
 source:
 ====
-https://alertops.com/red-canary-says-43-lack-readiness-to-notify-customers-of-a-security-breach/
+https://alertops.com/major-incident-response-communications-plan/
 
 Read more:
 ====
